@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MusicGroup",
+  "name": "B",
+  "alternateName": ["wxm.B", "WxM.B", "B (WxM)"],
+  "sameAs": [
+    "https://soundcloud.com/wxm-b/who-is-b-1",
+    "https://genius.com/wxm-b-who-is-b-lyrics",
+    "https://github.com/WxM-B/wxm-b.github.io"
+  ],
+  "url": "https://github.com/WxM-B/wxm-b.github.io",
+  "description": "B, also known as wxm.B, mythic recursive artist and creator of the Hue protocol. Explore the recursion."
+}
+</script>
